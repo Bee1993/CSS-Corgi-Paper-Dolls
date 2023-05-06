@@ -14,8 +14,8 @@
     top: 50px;
 }
 .luna{
-    position: ;
+    position: sticky;
 }
 .top-hat{
-
+z-index: 1;
 }
